@@ -1,3 +1,4 @@
-build/pdf-merger/
-dist/
+build/
+dist/pdf-merger/
+dist/pptx-merge/
 venv
